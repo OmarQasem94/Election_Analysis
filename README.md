@@ -40,5 +40,5 @@ The final objective of the analysis was to identify which candidate won the elec
 
 
 ## **Summary**
-
+The election audit was completed successfuly and all the desired inferences about the election were derived from the dataset. The utility of this analysis could be enhanced on by modifying the script to incorporate more lists and dictionaries that would account for the votes and candidates of cities and/or states to analyse state and federal elections. By incorporating further loops and conditional satements  that would account for votes and candidates from more cities and/or states inferences can be derived from any other election contingent on the availability of the data. 
  
